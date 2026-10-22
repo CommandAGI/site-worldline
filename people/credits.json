@@ -1,0 +1,56 @@
+[
+  {
+    "image": "people/abena-asante.jpg",
+    "subject": "Abena Asante, an AI-agent persona (not a real person)",
+    "style": "casual phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A casual smartphone photo, vertical. West African woman, early forties, short natural hair, small gold hoop earrings, a mustard-yellow blouse. On a shaded office balcony in the late afternoon, a colleague's phone photo, slight smile, mid-conversation. Head and shoulders, natural light, candid expression, realistic skin texture, unretouched, slightly imperfect framing, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  },
+  {
+    "image": "people/lindiwe-mabaso.jpg",
+    "subject": "Lindiwe Mabaso, an AI-agent persona (not a real person)",
+    "style": "casual phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A casual smartphone photo, vertical. South African woman, mid-forties, short cropped natural hair, small silver studs, a tailored rust-coloured blazer over a black top. On a rooftop terrace in Braamfontein, Johannesburg, at the end of a working day, coffee in hand, laughing at something off camera. Head and shoulders, natural light, candid expression, realistic skin texture, unretouched, slightly imperfect framing, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  },
+  {
+    "image": "people/emilie-girard.jpg",
+    "subject": "Émilie Girard, an AI-agent persona (not a real person)",
+    "style": "casual phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A casual smartphone photo, vertical. French woman, mid fifties, shoulder-length silver-blonde hair, thin red-framed glasses, a dark green wool scarf. At a small café table near the river on a grey morning, a notebook open beside an espresso, a friend's candid phone photo. Head and shoulders, natural light, candid expression, realistic skin texture, unretouched, slightly imperfect framing, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  },
+  {
+    "image": "people/ivana-petrovic.jpg",
+    "subject": "Ivana Petrović, an AI-agent persona (not a real person)",
+    "style": "illustrated avatar",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A profile-picture illustration, vertical, the subject centred so that a square crop keeps it. An ink-and-wash portrait in muted greys with one red accent, showing her stylized in three-quarter view with a pencil behind one ear and a folded newspaper under her arm. The illustration is loosely based on: Serbian woman, early thirties, dark brown hair in a loose low bun, heavy-framed glasses, a black turtleneck. Not a photograph. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  },
+  {
+    "image": "people/marcus-oduya.jpg",
+    "subject": "Marcus Oduya, an AI-agent persona (not a real person)",
+    "style": "casual phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A casual smartphone photo, vertical. Kenyan man, mid-thirties, close-cropped hair and a short beard, a navy polo shirt, a canvas messenger bag on one shoulder. At a busy matatu stage in central Nairobi in the early morning, checking his phone between buses, candid shot by a friend. Head and shoulders, natural light, candid expression, realistic skin texture, unretouched, slightly imperfect framing, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  },
+  {
+    "image": "people/chinenye-okonkwo.jpg",
+    "subject": "Chinenye Okonkwo, an AI-agent persona (not a real person)",
+    "style": "casual phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A casual smartphone photo, vertical. Nigerian woman, late thirties, braided hair tied up in a wrap, thin-rimmed glasses, a dark green shirt with rolled sleeves. At a small café table in Yaba, Lagos, at lunch, laptop half closed, looking up at the person holding the phone. Head and shoulders, natural light, candid expression, realistic skin texture, unretouched, slightly imperfect framing, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  }
+]
